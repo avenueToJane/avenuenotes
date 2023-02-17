@@ -1,0 +1,125 @@
+{
+	"title": "《JAVA 向前冲》",
+	"author": "Mr.yang",
+	"description": "一本集作者十年开发经验的 JAVA 电子书",
+	"language": "zh-hans",
+	"gitbook": "3.2.3",
+	"styles": {
+		"website": "./styles/website.css"
+	},
+	"links": {
+		"sidebar": {
+			"本书github站点": "https://github.com/westlifeyang/testgitbook.git"
+		}
+	},
+	"structure": {
+		"readme": "README.md"
+	},
+	"plugins": [
+		"expandable-chapters",
+		"-lunr",
+		"-search",
+		"search-pro",
+		"-highlight",
+		"fontsettings",
+		"-sharing ",
+		"livereload",
+		"donate",
+		"-back-to-top-button",
+		"copy-code-button",
+		"pageview-count",
+		"hide-element",
+		"page-footer-ex",
+		"anchor-navigation-ex",
+		"expandable-chapters-small",
+		"prism",
+		"splitter",
+		"accordion",
+		"favicon",
+		"-page-toc-button",
+		"github",
+		"insert-logo",
+		"-page-treeview",
+		"-theme-door",
+		"advanced-emoji"
+	],
+	"variables": {
+		"doorTheme": {
+			"nav": [
+				{
+					"url": "xxxxx",
+					"target": "_blank",
+					"name": "论坛"
+				},
+				{
+					"url": "xxxxx",
+					"target": "_blank",
+					"name": "登录"
+				}
+			]
+		}
+	},
+	"pluginsConfig": {
+		"doorTheme": {
+			"search-placeholder": "请输入关键字搜索",
+			"logo": "/images/1.jpg",
+			"favicon": "./_media/favicon.ico"
+		},
+		"theme-default": {
+			"showLevel": true
+		},
+		"github": {
+			"url": "https://github.com/westlifeyang"
+		},
+		"insert-logo": {
+			"url": "/images/2.jpg",
+			"style": "background:none;max-height:24px"
+		},
+		"sharing": {
+			"douban": false,
+			"facebook": false,
+			"google": false,
+			"hatenaBookmark": false,
+			"instapaper": false,
+			"line": true,
+			"linkedin": true,
+			"messenger": false,
+			"pocket": false,
+			"qq": false,
+			"qzone": false,
+			"stumbleupon": true,
+			"twitter": true,
+			"viber": false,
+			"vk": false,
+			"weibo": true,
+			"whatsapp": false
+		},
+		"page-footer-ex": {
+			"copyright": "© 2023 [Mr.yang](https://github.com/westlifeyang) All Rights Reserved ,powered by Gitbook",
+			"markdown": true,
+			"update_label": "<i>updated</i>",
+			"update_format": "YYYY-MM-DD HH:mm:ss"
+		},
+		"prism": {
+			"css": [
+				"prismjs/themes/prism-okaidia.css"
+			],
+			"lang": {
+				"flow": "typescript"
+			}
+		},
+		"hide-element": {
+			"elements": [
+				".gitbook-link"
+			]
+		},
+		"donate": {
+			"wechat": "/images/weixin.jpg",
+			"alipay": "/images/zhifubao.jpg",
+			"title": "",
+			"button": "捐赠",
+			"alipayText": "支付宝捐赠",
+			"wechatText": "微信捐赠"
+		}
+	}
+}

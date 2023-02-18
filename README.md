@@ -102,7 +102,7 @@ GitBook支持输出多种文档格式：
 
 [![Gitbook](images/Gitbook官网-Gitbook-green.svg)](https://www.gitbook.com)
 
-[![Github](images/Github官网-Github-green.svg)](https://github.com/)
+[![Github](images/GitHub-GitHub-green.svg)](https://github.com/)
 
 [![Github](images/Gitee官网-Gitee-green.svg)](https://gitee.com/)
 

@@ -7,11 +7,6 @@
 	"styles": {
 		"website": "./styles/website.css"
 	},
-	"links": {
-		"sidebar": {
-			"本书github站点": "https://github.com/westlifeyang/testgitbook.git"
-		}
-	},
 	"structure": {
 		"readme": "README.md"
 	},
@@ -69,11 +64,11 @@
 			"showLevel": true
 		},
 		"github": {
-			"url": "https://github.com/westlifeyang"
+			"url": "https://github.com/avenuetojane"
 		},
 		"insert-logo": {
-			"url": "/images/2.jpg",
-			"style": "background:none;max-height:24px"
+			"url": "http://rq4cxqmur.hn-bkt.clouddn.com/image/book2.jpg",
+			"style": "background:none;max-height: 100px; min-height: 10px"
 		},
 		"sharing": {
 			"douban": false,
@@ -95,7 +90,7 @@
 			"whatsapp": false
 		},
 		"page-footer-ex": {
-			"copyright": "© 2023 [Mr.yang](https://github.com/westlifeyang) All Rights Reserved ,powered by Gitbook",
+			"copyright": "© 2023 [Mr.yang](https://github.com/avenuetojane) All Rights Reserved ,powered by Gitbook",
 			"markdown": true,
 			"update_label": "<i>updated</i>",
 			"update_format": "YYYY-MM-DD HH:mm:ss"
@@ -113,9 +108,18 @@
 				".gitbook-link"
 			]
 		},
+		  "favicon": {
+            "shortcut": "./images/favicon.ico",
+            "bookmark": "./images/favicon.ico",
+            "appleTouch": "./images/apple-touch-icon.png",
+            "appleTouchMore": {
+                "120x120": "./images/apple-touch-icon.png",
+                "180x180": "./images/apple-touch-icon.png"
+            }
+        },
 		"donate": {
-			"wechat": "/images/weixin.jpg",
-			"alipay": "/images/zhifubao.jpg",
+			"wechat": "http://rq4cxqmur.hn-bkt.clouddn.com/image/weixin.jpg",
+			"alipay": "http://rq4cxqmur.hn-bkt.clouddn.com/image/zhifubao.jpg",
 			"title": "",
 			"button": "捐赠",
 			"alipayText": "支付宝捐赠",

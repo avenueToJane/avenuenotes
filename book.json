@@ -14,15 +14,17 @@
 		"expandable-chapters",
 		"-lunr",
 		"-search",
+		"-sharing",
 		"search-pro",
+		"sharing-plus",
 		"-highlight",
 		"fontsettings",
 		"-sharing ",
-		"livereload",
+		"-livereload",
 		"donate",
 		"-back-to-top-button",
 		"copy-code-button",
-		"pageview-count",
+		"-pageview-count",
 		"hide-element",
 		"page-footer-ex",
 		"anchor-navigation-ex",
@@ -36,32 +38,13 @@
 		"insert-logo",
 		"-page-treeview",
 		"-theme-door",
-		"advanced-emoji"
+		"advanced-emoji",
+		"valine",
+		"baidu-tongji-with-multiple-channel"
 	],
-	"variables": {
-		"doorTheme": {
-			"nav": [
-				{
-					"url": "xxxxx",
-					"target": "_blank",
-					"name": "论坛"
-				},
-				{
-					"url": "xxxxx",
-					"target": "_blank",
-					"name": "登录"
-				}
-			]
-		}
-	},
 	"pluginsConfig": {
-		"doorTheme": {
-			"search-placeholder": "请输入关键字搜索",
-			"logo": "/images/1.jpg",
-			"favicon": "./_media/favicon.ico"
-		},
 		"theme-default": {
-			"showLevel": true
+			"showLevel": false
 		},
 		"github": {
 			"url": "https://github.com/avenuetojane"
@@ -73,21 +56,13 @@
 		"sharing": {
 			"douban": false,
 			"facebook": false,
-			"google": false,
-			"hatenaBookmark": false,
-			"instapaper": false,
-			"line": true,
-			"linkedin": true,
-			"messenger": false,
+			"google": true,
 			"pocket": false,
-			"qq": false,
-			"qzone": false,
-			"stumbleupon": true,
+			"qq": true,
+			"qzone": true,
 			"twitter": true,
-			"viber": false,
-			"vk": false,
 			"weibo": true,
-			"whatsapp": false
+			"all": []
 		},
 		"page-footer-ex": {
 			"copyright": "© 2023 [Mr.yang](https://github.com/avenuetojane) All Rights Reserved ,powered by Gitbook",
@@ -108,15 +83,23 @@
 				".gitbook-link"
 			]
 		},
-		  "favicon": {
-            "shortcut": "./images/favicon.ico",
-            "bookmark": "./images/favicon.ico",
-            "appleTouch": "./images/apple-touch-icon.png",
-            "appleTouchMore": {
-                "120x120": "./images/apple-touch-icon.png",
-                "180x180": "./images/apple-touch-icon.png"
-            }
-        },
+		"favicon": {
+			"shortcut": "./images/favicon.ico",
+			"bookmark": "./images/favicon.ico",
+			"appleTouch": "./images/apple-touch-icon.png",
+			"appleTouchMore": {
+				"120x120": "./images/apple-touch-icon.png",
+				"180x180": "./images/apple-touch-icon.png"
+			}
+		},
+		"valine": {
+			"placeholder": "请写下你的评论吧...",
+			"appId": "dku5p3C2DrEuFcKii6Ug3khi-gzGzoHsz",
+			"appKey": "UOPtkfevniTbyZfjspx5gc3B"
+		},
+		"baidu-tongji-with-multiple-channel": {
+			"token": "a30a822e15caa378ba5bca6adc67c927"
+		},
 		"donate": {
 			"wechat": "./images/weixin.jpg",
 			"alipay": "./images/zhifubao.jpg",

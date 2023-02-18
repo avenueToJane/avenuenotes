@@ -1,37 +1,45 @@
-# avenuenotes
+ <img width="100px" src="images/apple-touch-icon-1676709181986-7.png" align="center" alt="大道至简 github logo" />
 
-#### 介绍
-大道笔记
+<h1 align="center">大道至简</h1>
 
-#### 软件架构
-软件架构说明
+<center>大道至简，知行合一<center>
+<p align="center">
+   <p align="center">
+    <a href="https://github.com/avenueToJane/avenuenotes" target="_blank">
+      <img alt="GitHub Workflow Status" src="https://img.shields.io/badge/build-https%3A%2F%2Fgithub.com%2FavenueToJane-green">
+    </a>
+    <a href="https://github.com/avenueToJane/avenuenotes" target="_blank">
+      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/avenueToJane/avenuenotes">
+    </a>
+    <a href="https://github.com/avenueToJane/avenuenotes/issues" target="_blank">
+      <img alt="Issues" src="https://img.shields.io/github/issues/avenueToJane/avenuenotes.svg" />
+    </a>
+    <a href="https://github.com/avenueToJane/avenuenotes/pulls" target="_blank">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/avenueToJane/avenuenotes" />
+    </a>
+    <a href="https://github.com/avenueToJane/avenuenotes" target="_blank">
+      <img alt="GitHub" src="https://img.shields.io/github/license/avenueToJane/avenuenotes">
+    </a>
+    <br/>
+    <br/>
+    <a href="https://github.com/avenueToJane/avenuenotes" target="_blank">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/avenueToJane">
+    </a>
+    <a href="https://github.com/avenueToJane/avenuenotes" target="_blank">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/avenueToJane/avenuenotes">
+    </a>
+    <a href="https://github.com/avenueToJane/avenuenotes" target="_blank">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/avenueToJane/avenuenotes">
+    </a>
+    <a href="https://github.com/avenueToJane/avenuenotes" target="_blank">
+      <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/avenueToJane/avenuenotes">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/avenueToJane/avenuenotes/issues/new/choose" target="_blank">报告 bug</a>
+    ·
+    <a href="https://github.com/avenueToJane/avenuenotes/issues/new/choose" target="_blank">请求增加功能</a>
+  </p>
+</p>
+<p align="center">喜欢这个项目？请考虑<a href="./images/weixin.jpg" target="_blank">捐赠</a>来帮助它完善！</p>
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)

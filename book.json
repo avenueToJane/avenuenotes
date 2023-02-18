@@ -67,7 +67,7 @@
 			"url": "https://github.com/avenuetojane"
 		},
 		"insert-logo": {
-			"url": "/images/book.jpg",
+			"url": "images/book.jpg",
 			"style": "background:none;max-height: 100px; min-height: 10px"
 		},
 		"sharing": {

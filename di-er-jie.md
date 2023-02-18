@@ -1,5 +1,3 @@
-:1st_place_medal:
-
 <a  href ="https://blog.csdn.net/u010725171">你的描述信息</a>
 
 这是一个链接 [新浪新闻](https://news.sina.com.cn/)
@@ -24,8 +22,6 @@
 
 <font face="华文行楷">华文行楷</font>
 
-[![github](https://gitee.com/avenueToJane/img/raw/master/image/20230216174628.svg)](https://github.com/snowdreams1006)
-
 <p align="center">
     <a href="https://circleci.com/gh/vuejs/vue/tree/dev">
         <img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg" alt="Build Status">
@@ -43,4 +39,4 @@
         <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="License">
     </a>
 </p>
-
+![image-20230218111031506](http://rq4cxqmur.hn-bkt.clouddn.com/image/20230218111033.png)

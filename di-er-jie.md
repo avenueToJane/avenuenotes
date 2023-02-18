@@ -26,9 +26,6 @@
     <a href="https://circleci.com/gh/vuejs/vue/tree/dev">
         <img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg" alt="Build Status">
     </a>
-    <a href="https://codecov.io/github/vuejs/vue?branch=dev">
-        <img src="https://img.shields.io/codecov/c/github/vuejs/vue/dev.svg" alt="Coverage Status">
-    </a>
     <a href="https://www.npmjs.com/package/vue">
         <img src="https://img.shields.io/npm/dm/vue.svg" alt="Downloads">
     </a>
@@ -39,6 +36,7 @@
         <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="License">
     </a>
 </p>
+
 ![image-20230218111031506](http://rq4cxqmur.hn-bkt.clouddn.com/image/20230218111033.png)
 
 assdasd

@@ -67,7 +67,7 @@
 			"url": "https://github.com/avenuetojane"
 		},
 		"insert-logo": {
-			"url": "http://rq4cxqmur.hn-bkt.clouddn.com/image/book2.jpg",
+			"url": "/images/book.jpg",
 			"style": "background:none;max-height: 100px; min-height: 10px"
 		},
 		"sharing": {
@@ -118,8 +118,8 @@
             }
         },
 		"donate": {
-			"wechat": "http://rq4cxqmur.hn-bkt.clouddn.com/image/weixin.jpg",
-			"alipay": "http://rq4cxqmur.hn-bkt.clouddn.com/image/zhifubao.jpg",
+			"wechat": "./images/weixin.jpg",
+			"alipay": "./images/zhifubao.jpg",
 			"title": "",
 			"button": "捐赠",
 			"alipayText": "支付宝捐赠",

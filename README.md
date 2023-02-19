@@ -110,7 +110,11 @@ GitBook支持输出多种文档格式：
 
 [![Github](images/npmjs官网-npmjs-green.svg)](https://www.npmjs.com/)
 
-[![Github](images/Markdown官网-Markdown-green.svg)]([http://markdown.p2hp.com](http://markdown.p2hp.com/)
+[![Github](images/Markdown官网-Markdown-green.svg)](http://markdown.p2hp.com/)
+
+[![Github](images/leancloud官网-leancloud-green.svg)](https://console.leancloud.cn/)
+
+[![Github](images/tongji官网-tongji-green.svg)](https://tongji.baidu.com/)
 
 
 
